@@ -11,3 +11,4 @@ You can learn more about my course [here](http://courses.springframework.guru/co
 ## miscellaneous
 
 * Some of the image links on the instructor's example pages don't work in 2020. I want to follow along with his Git repo code, so I'm just going to leave them broken.
+* Thymeleaf template pages MUST be well-structured XML
